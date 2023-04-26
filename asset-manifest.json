@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-saurabh/static/css/main.412fccf6.css",
+    "main.js": "/plan-with-saurabh/static/js/main.845da957.js",
+    "index.html": "/plan-with-saurabh/index.html",
+    "main.412fccf6.css.map": "/plan-with-saurabh/static/css/main.412fccf6.css.map",
+    "main.845da957.js.map": "/plan-with-saurabh/static/js/main.845da957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412fccf6.css",
+    "static/js/main.845da957.js"
+  ]
+}
